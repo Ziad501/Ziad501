@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/ziad-hassanein/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/stories/ziad.hassanein/" target="_blank">
+  <a href="https://www.instagram.com/ziad.hassanein/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://discord.com/users/ziad422" target="_blank">
